@@ -48,8 +48,19 @@
       "stock": 25,
       "discount": 25,
       "categoryId": 2,
-      "image": "https://d3fppka8t5rpz7.cloudfront.net/filters:format(webp)/dev/images/81mLFIaCYwL._SL1500_.jpg",
+      "image": "https://www.techadvisor.com/wp-content/uploads/2024/11/best-phones-2024-11.jpg?quality=50&strip=all",
       "createdAt": "2024-11-18"
+    },
+    {
+      "id": "4",
+      "name": "Wireless Earbuds",
+      "description": "Compact and wireless earbuds with excellent sound quality.",
+      "price": 129.99,
+      "stock": 150,
+      "discount": 10,
+      "categoryId": 4,
+      "image": "https://images.squarespace-cdn.com/content/v1/5beb251ab40b9dd2724c2f46/509b8d66-bd62-4e1f-a48f-19bb532c9ec7/Soundcore+Life+A3i+vs+SoundPEATS+Mini+Pro+review.jpg",
+      "createdAt": "2024-11-17"
     }
   ],
   "categories": [

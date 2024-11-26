@@ -1,3 +1,15 @@
-img{
-    width: 200px;
+img {
+  width: 200px;
+}
+.container {
+  outline: none;
+  text-decoration: none;
+  max-width: 1200px;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(0, 229, 255),
+    rgb(190, 228, 0)
+  );
+  border: 2px solid;
+  border-radius: 10px;
 }
