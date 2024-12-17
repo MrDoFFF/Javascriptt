@@ -1,0 +1,51 @@
+.container {
+  height: 100;
+  max-width: 1200px;
+  outline: none;
+  text-decoration: none;
+}
+body {
+  background-image: linear-gradient(rgb(77, 210, 255), yellow);
+}
+.text {
+  display: flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.search {
+  display: flex;
+  justify-content: center;
+}
+.search input {
+  border: 1px solid transparent;
+  border-radius: 10px;
+}
+.card-name {
+  text-align: center;
+  font-weight: bold;
+}
+.card-desc {
+  text-align: center;
+  font-style: italic;
+}
+.price {
+  text-align: center;
+  color: red;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.card {
+  background-color: transparent;
+  border: 1px solid gray;
+  border-radius: 30px;
+}
+.card:hover {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  transition: 1s;
+  border: 1px solid red;
+}
+img {
+  border: 1px solid transparent;
+  border-radius: 30px;
+}
