@@ -1,0 +1,42 @@
+.row {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    gap: 1rem;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.card {
+    background-color: yellow;
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.container h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+ position: absolute;
+ top: 30%;
+ left: 50%;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items:center;
+}
+
+.image img {
+    width: 100px;
+    height: 100px;
+}

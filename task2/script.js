@@ -36,7 +36,7 @@ const disCont = document.querySelector(".container");
 addBtn.addEventListener("click", function () {
     const newDiv = document.createElement("div");
     newDiv.classList.add("new-item");
-    disCont.appendChild(newDiv)
+    disCont.appendChild(newDiv);
 })
 
 // task5 
